@@ -71,4 +71,3 @@ pip install pandas matplotlib scikit-learn jupyter
 jupyter notebook UPI_Spending_Behavior_Analysis.ipynb
 ```
 
-Keep `upi.csv` in the same folder as the notebook.

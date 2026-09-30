@@ -1,0 +1,102 @@
+  Q2. Age  ,  Q3. Gender  ,  Q4. Current occupation  ,  Q5. Monthly income or allowance  ,Q6. How many UPI transactions do you make in a typical week?,  Q7. What is your average UPI transaction amount?  ,  Q8. Do you check your account balance before making a UPI payment?  ,  Q9. How much time do you spend deciding before confirming a UPI payment?  ,  Q10. Do you track your monthly expenses in any way?  ,  Q11. Do you set a monthly spending budget for yourself?  ,"  Q12. In the past 3 months, has your UPI balance been lower than you expected when you tried to make a payment?  ",  Q13. Have you ever borrowed money or delayed a payment because you ran out of balance unexpectedly?  ,"  Q14. On a scale of 1–5, how financially aware/careful do you consider yourself?  ",  Q15. Do you think UPI's ease of use makes people spend more than they intend to?  
+19.0,Female,student,under 5000,0-2,100-500,1.0,I actively pause and consider,"I track mentally, no records",No,never,No,3.0,5.0
+19.0,Female,student,under 5000,3-6,under 100,4.0,A few seconds of thought,"I track mentally, no records",Yes,once or twice,No,4.0,5.0
+19.0,Female,student,"Above 40,000",,"1,000-5,000",1.0,I actively pause and consider,"No, I don't track",No,frequently,Yes,1.0,5.0
+17.0,Male,student,under 5000,7-15,100-500,2.0,A few seconds of thought,"I track mentally, no records",sometimes,frequently,Yes,2.0,4.0
+22.0,Female,working professional,under 5000,3-6,100-500,5.0,I actively pause and consider,"I track mentally, no records",sometimes,once or twice,No,5.0,5.0
+23.0,Male,working professional,"20,000-40,000",7-15,"500-1,000",3.0,I pay instantly without thinking.,"I track mentally, no records",Yes,once or twice,No,4.0,3.0
+25.0,Male,working professional,"20,000-40,000",morethan 15,100-500,2.0,I pay instantly without thinking.,"I track mentally, no records",No,frequently,Yes,1.0,4.0
+23.0,Male,working professional,"20,000-40,000",3-6,"500-1,000",5.0,I actively pause and consider,"I track mentally, no records",sometimes,frequently,No,5.0,5.0
+23.0,Female,working professional,"20,000-40,000",7-15,"500-1,000",4.0,A few seconds of thought,"No, I don't track",sometimes,a few times,No,3.0,3.0
+20.0,Female,student,under 5000,3-6,100-500,5.0,A few seconds of thought,"I track mentally, no records",No,never,Yes,3.0,3.0
+19.0,Male,student,"5000-10,000",7-15,100-500,5.0,A few seconds of thought,"I track mentally, no records",No,frequently,Yes,3.0,5.0
+26.0,Male,working professional,"Above 40,000",7-15,"1,000-5,000",2.0,A few seconds of thought,"I track mentally, no records",sometimes,a few times,Yes,3.0,5.0
+27.0,Female,working professional,"Above 40,000",7-15,"1,000-5,000",3.0,A few seconds of thought,"I track mentally, no records",sometimes,a few times,Yes,3.0,5.0
+45.0,Female,working professional,"10,000-20,000",0-2,"1,000-5,000",5.0,A few seconds of thought,I use notes/spreadsheet,No,never,No,4.0,5.0
+19.0,Male,student,"Above 40,000",morethan 15,"Above 5,000",2.0,I actively pause and consider,I use notes/spreadsheet,Yes,frequently,Yes,4.0,1.0
+22.0,Male,unemployed,under 5000,0-2,100-500,3.0,A few seconds of thought,"I track mentally, no records",No,once or twice,No,3.0,4.0
+26.0,Male,working professional,"Above 40,000",3-6,100-500,5.0,I actively pause and consider,"I track mentally, no records",Yes,once or twice,No,4.0,5.0
+27.0,Male,working professional,"20,000-40,000",3-6,100-500,5.0,I pay instantly without thinking.,"I track mentally, no records",No,never,No,4.0,5.0
+22.0,Male,working professional,"10,000-20,000",morethan 15,"1,000-5,000",3.0,A few seconds of thought,"No, I don't track",No,once or twice,,4.0,5.0
+21.0,Male,self-employed,"Above 40,000",morethan 15,"500-1,000",2.0,A few seconds of thought,"I track mentally, no records",sometimes,once or twice,No,3.0,3.0
+25.0,Female,student,under 5000,0-2,under 100,5.0,I actively pause and consider,I use notes/spreadsheet,sometimes,a few times,No,2.0,3.0
+22.0,Female,student,"10,000-20,000",7-15,100-500,2.0,I actively pause and consider,"I track mentally, no records",Yes,never,No,4.0,5.0
+22.0,Female,student,"5000-10,000",3-6,,4.0,A few seconds of thought,"I track mentally, no records",Yes,once or twice,Yes,4.0,3.0
+21.0,Male,student,under 5000,0-2,under 100,1.0,I actively pause and consider,"No, I don't track",No,frequently,No,3.0,4.0
+22.0,Female,student,"10,000-20,000",7-15,"1,000-5,000",4.0,A few seconds of thought,"I track mentally, no records",sometimes,once or twice,Yes,4.0,3.0
+20.0,Female,student,under 5000,3-6,under 100,1.0,I pay instantly without thinking.,"I track mentally, no records",No,never,No,5.0,5.0
+25.0,Female,student,under 5000,3-6,"500-1,000",3.0,A few seconds of thought,I use notes/spreadsheet,Yes,once or twice,Yes,3.0,3.0
+44.0,Female,self-employed,under 5000,3-6,under 100,1.0,I pay instantly without thinking.,"No, I don't track",No,never,No,2.0,2.0
+21.0,Male,student,,0-2,under 100,3.0,I actively pause and consider,"I track mentally, no records",sometimes,a few times,No,3.0,3.0
+52.0,Male,self-employed,"Above 40,000",morethan 15,"1,000-5,000",5.0,A few seconds of thought,"I track mentally, no records",sometimes,never,No,3.0,3.0
+53.0,Male,working professional,"20,000-40,000",0-2,100-500,2.0,I actively pause and consider,I use notes/spreadsheet,Yes,once or twice,No,3.0,3.0
+51.0,Male,working professional,"Above 40,000",0-2,"1,000-5,000",5.0,A few seconds of thought,"I track mentally, no records",Yes,never,No,5.0,5.0
+52.0,Male,working professional,"10,000-20,000",morethan 15,100-500,1.0,I actively pause and consider,"No, I don't track",Yes,once or twice,Yes,3.0,2.0
+52.0,Male,working professional,"20,000-40,000",7-15,100-500,,I actively pause and consider,I use notes/spreadsheet,Yes,never,No,,
+51.0,Male,working professional,"Above 40,000",morethan 15,"1,000-5,000",5.0,I actively pause and consider,"I track mentally, no records",Yes,never,No,4.0,3.0
+23.0,Female,student,"10,000-20,000",7-15,"500-1,000",3.0,I pay instantly without thinking.,I use notes/spreadsheet,Yes,a few times,Yes,4.0,4.0
+52.0,Male,self-employed,"Above 40,000",7-15,100-500,3.0,A few seconds of thought,"I track mentally, no records",sometimes,once or twice,No,3.0,2.0
+51.0,Male,working professional,"Above 40,000",7-15,"1,000-5,000",5.0,A few seconds of thought,"No, I don't track",No,once or twice,No,3.0,4.0
+52.0,Male,working professional,"Above 40,000",7-15,"1,000-5,000",4.0,A few seconds of thought,"No, I don't track",sometimes,never,No,5.0,4.0
+52.0,Male,self-employed,"Above 40,000",7-15,,3.0,I pay instantly without thinking.,"No, I don't track",No,once or twice,Yes,3.0,4.0
+55.0,Male,unemployed,"Above 40,000",7-15,"1,000-5,000",2.0,I actively pause and consider,"I track mentally, no records",No,once or twice,Yes,3.0,2.0
+52.0,Male,self-employed,"Above 40,000",morethan 15,100-500,2.0,A few seconds of thought,"I track mentally, no records",Yes,never,No,3.0,4.0
+18.0,Female,student,under 5000,3-6,100-500,2.0,A few seconds of thought,"I track mentally, no records",sometimes,never,No,2.0,5.0
+24.0,Female,student,under 5000,0-2,under 100,4.0,A few seconds of thought,"I track mentally, no records",sometimes,once or twice,No,3.0,4.0
+16.0,Prefer not to say,student,under 5000,0-2,100-500,5.0,A few seconds of thought,I use notes/spreadsheet,sometimes,once or twice,No,5.0,3.0
+23.0,Female,student,"10,000-20,000",3-6,100-500,2.0,I actively pause and consider,"I track mentally, no records",Yes,never,No,4.0,5.0
+23.0,Male,working professional,under 5000,3-6,under 100,3.0,I pay instantly without thinking.,"No, I don't track",Yes,once or twice,No,3.0,4.0
+,Female,student,under 5000,7-15,under 100,2.0,I pay instantly without thinking.,I use a budgeting app,sometimes,once or twice,No,5.0,5.0
+18.0,Female,student,"5000-10,000",3-6,100-500,4.0,A few seconds of thought,"I track mentally, no records",Yes,never,Yes,4.0,2.0
+23.0,Male,student,under 5000,0-2,under 100,3.0,A few seconds of thought,I use notes/spreadsheet,Yes,once or twice,No,4.0,3.0
+30.0,Male,working professional,"10,000-20,000",morethan 15,"500-1,000",4.0,I pay instantly without thinking.,I use notes/spreadsheet,Yes,a few times,No,4.0,5.0
+23.0,Male,student,"5000-10,000",morethan 15,"Above 5,000",1.0,I pay instantly without thinking.,I use notes/spreadsheet,Yes,once or twice,No,5.0,5.0
+21.0,Female,student,under 5000,0-2,100-500,5.0,I actively pause and consider,"I track mentally, no records",sometimes,a few times,No,4.0,5.0
+51.0,Male,working professional,"Above 40,000",7-15,"500-1,000",3.0,A few seconds of thought,"I track mentally, no records",Yes,never,No,3.0,5.0
+21.0,Female,student,under 5000,3-6,under 100,3.0,A few seconds of thought,"I track mentally, no records",sometimes,a few times,Yes,4.0,3.0
+19.0,Female,student,under 5000,7-15,under 100,4.0,I actively pause and consider,"I track mentally, no records",No,never,No,3.0,5.0
+43.0,Male,self-employed,under 5000,0-2,under 100,2.0,A few seconds of thought,"I track mentally, no records",No,never,No,3.0,3.0
+38.0,Female,working professional,"10,000-20,000",3-6,"500-1,000",5.0,I pay instantly without thinking.,"I track mentally, no records",Yes,a few times,No,4.0,5.0
+23.0,Female,student,under 5000,0-2,under 100,1.0,I actively pause and consider,"I track mentally, no records",sometimes,never,No,4.0,3.0
+21.0,Female,student,under 5000,3-6,under 100,1.0,I pay instantly without thinking.,"No, I don't track",sometimes,once or twice,Yes,2.0,5.0
+22.0,Female,student,under 5000,0-2,"500-1,000",4.0,I actively pause and consider,"I track mentally, no records",Yes,once or twice,No,4.0,3.0
+20.0,Male,student,under 5000,morethan 15,100-500,2.0,A few seconds of thought,"I track mentally, no records",No,once or twice,No,5.0,5.0
+25.0,Male,student,"5000-10,000",0-2,under 100,5.0,A few seconds of thought,"I track mentally, no records",No,never,No,5.0,3.0
+22.0,Female,student,under 5000,0-2,100-500,2.0,A few seconds of thought,"I track mentally, no records",sometimes,never,No,3.0,4.0
+31.0,Prefer not to say,working professional,"Above 40,000",morethan 15,100-500,3.0,A few seconds of thought,"I track mentally, no records",sometimes,never,No,4.0,5.0
+36.0,Male,self-employed,"Above 40,000",3-6,"1,000-5,000",2.0,I pay instantly without thinking.,"I track mentally, no records",No,never,No,5.0,5.0
+26.0,Male,self-employed,"Above 40,000",morethan 15,"Above 5,000",1.0,A few seconds of thought,"No, I don't track",No,never,No,5.0,5.0
+23.0,Female,working professional,"20,000-40,000",7-15,"1,000-5,000",3.0,A few seconds of thought,"No, I don't track",No,frequently,No,4.0,3.0
+25.0,Male,working professional,"Above 40,000",morethan 15,"1,000-5,000",1.0,I pay instantly without thinking.,"No, I don't track",No,a few times,Yes,3.0,4.0
+19.0,Female,student,"5000-10,000",morethan 15,under 100,4.0,I actively pause and consider,"I track mentally, no records",No,once or twice,No,4.0,5.0
+18.0,Male,student,under 5000,0-2,under 100,1.0,I actively pause and consider,"I track mentally, no records",No,never,No,2.0,3.0
+36.0,Male,working professional,"Above 40,000",morethan 15,"500-1,000",1.0,I pay instantly without thinking.,"No, I don't track",Yes,never,No,5.0,5.0
+35.0,Prefer not to say,self-employed,"Above 40,000",3-6,"1,000-5,000",3.0,A few seconds of thought,"I track mentally, no records",sometimes,once or twice,No,3.0,5.0
+28.0,Male,working professional,"20,000-40,000",7-15,"1,000-5,000",4.0,I pay instantly without thinking.,"I track mentally, no records",sometimes,never,No,5.0,5.0
+20.0,Female,student,under 5000,7-15,"500-1,000",3.0,A few seconds of thought,"I track mentally, no records",sometimes,never,No,4.0,3.0
+19.0,Female,student,under 5000,morethan 15,"1,000-5,000",4.0,A few seconds of thought,"I track mentally, no records",sometimes,once or twice,Yes,3.0,3.0
+21.0,Female,student,under 5000,7-15,100-500,4.0,A few seconds of thought,"I track mentally, no records",No,frequently,Yes,1.0,5.0
+21.0,Male,student,under 5000,3-6,under 100,4.0,A few seconds of thought,"I track mentally, no records",Yes,never,No,3.0,4.0
+25.0,Female,student,under 5000,3-6,100-500,3.0,A few seconds of thought,I use notes/spreadsheet,Yes,once or twice,Yes,4.0,4.0
+22.0,Male,student,"5000-10,000",7-15,under 100,3.0,I pay instantly without thinking.,"No, I don't track",sometimes,once or twice,Yes,2.0,4.0
+36.0,Male,working professional,"Above 40,000",7-15,"1,000-5,000",4.0,I pay instantly without thinking.,I use a budgeting app,Yes,never,No,5.0,1.0
+20.0,Female,student,under 5000,3-6,100-500,1.0,I pay instantly without thinking.,"I track mentally, no records",sometimes,a few times,Yes,3.0,2.0
+20.0,Male,student,"5000-10,000",0-2,under 100,2.0,A few seconds of thought,"I track mentally, no records",No,once or twice,No,4.0,3.0
+23.0,Female,student,"10,000-20,000",7-15,"500-1,000",1.0,I actively pause and consider,"I track mentally, no records",sometimes,never,No,4.0,4.0
+20.0,Female,student,under 5000,morethan 15,under 100,4.0,A few seconds of thought,"No, I don't track",No,frequently,Yes,2.0,3.0
+24.0,Male,working professional,"20,000-40,000",7-15,"500-1,000",2.0,A few seconds of thought,"I track mentally, no records",sometimes,once or twice,Yes,3.0,3.0
+19.0,Female,student,"Above 40,000",morethan 15,"1,000-5,000",4.0,A few seconds of thought,"No, I don't track",No,once or twice,No,3.0,5.0
+19.0,Female,student,under 5000,0-2,under 100,3.0,A few seconds of thought,"I track mentally, no records",Yes,once or twice,No,4.0,5.0
+21.0,Female,working professional,"10,000-20,000",morethan 15,under 100,3.0,A few seconds of thought,"I track mentally, no records",sometimes,a few times,No,3.0,3.0
+22.0,Male,working professional,"20,000-40,000",morethan 15,"Above 5,000",3.0,A few seconds of thought,I use notes/spreadsheet,Yes,a few times,No,5.0,3.0
+19.0,Female,student,under 5000,0-2,"500-1,000",1.0,A few seconds of thought,"I track mentally, no records",sometimes,once or twice,No,3.0,5.0
+21.0,Female,student,under 5000,0-2,100-500,3.0,A few seconds of thought,"I track mentally, no records",No,never,Yes,4.0,4.0
+20.0,Female,student,under 5000,7-15,100-500,3.0,A few seconds of thought,"No, I don't track",sometimes,a few times,Yes,4.0,5.0
+20.0,Male,student,"5000-10,000",7-15,"1,000-5,000",5.0,I actively pause and consider,"I track mentally, no records",Yes,once or twice,No,5.0,5.0
+26.0,Female,student,under 5000,0-2,"500-1,000",4.0,I pay instantly without thinking.,"I track mentally, no records",No,a few times,Yes,2.0,4.0
+45.0,Female,,"5000-10,000",3-6,100-500,5.0,A few seconds of thought,I use notes/spreadsheet,No,frequently,Yes,4.0,3.0
+26.0,Male,working professional,"Above 40,000",morethan 15,"1,000-5,000",2.0,A few seconds of thought,"No, I don't track",No,never,No,5.0,3.0
+16.0,Female,student,under 5000,3-6,100-500,4.0,A few seconds of thought,"I track mentally, no records",sometimes,once or twice,No,4.0,3.0
+45.0,Male,working professional,under 5000,0-2,under 100,3.0,I pay instantly without thinking.,"I track mentally, no records",No,never,No,3.0,3.0
+21.0,Male,working professional,"Above 40,000",morethan 15,"1,000-5,000",1.0,I pay instantly without thinking.,"No, I don't track",No,never,No,5.0,5.0
+34.0,Female,self-employed,"Above 40,000",3-6,"500-1,000",5.0,I pay instantly without thinking.,"I track mentally, no records",No,never,No,5.0,3.0
